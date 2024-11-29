@@ -9,7 +9,7 @@ React.js, HTML, CSS, Javascript, OpenWeather API.
 <!-- ![Logo](./src/assets/WeatherApp.png) -->
 
 <p align="center">
-<img src="./src/assets/WeatherApp.png" width="20%">
+<img src="./src/assets/WeatherApp.png" width="40%">
 </p>
 
 
