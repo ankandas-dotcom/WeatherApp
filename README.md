@@ -1,5 +1,5 @@
 ## WeatherApp
 
-```
-npm i && npm start
-```
+
+# Please check the master branch for all project files and folders
+
