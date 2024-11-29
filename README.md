@@ -6,10 +6,10 @@ OpenWeather) to provide real-time weather updates, forecasts, and alerts based o
 ## Tech Stack:
 React.js, HTML, CSS, Javascript, OpenWeather API.
 
-![Logo](./src/assets/WeatherApp.png)
+<!-- ![Logo](./src/assets/WeatherApp.png) -->
 
 <p align="center">
-<img src="./src/assets/WeatherApp.png" width="100%">
+<img src="./src/assets/WeatherApp.png" width="20%">
 </p>
 
 
